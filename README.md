@@ -28,5 +28,7 @@ To use the model, you can input the advertising spends for TV, radio, and newspa
 
 # Acknowledgements
 Kaggle for providing the dataset
+
 Scikit-learn for providing the machine learning algorithms
+
 Matplotlib and Seaborn for data visualization
