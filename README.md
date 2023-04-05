@@ -9,10 +9,15 @@ We have used a regression model to predict the sales based on the advertising sp
 
 # Technologies Used
 Python
+
 Pandas
+
 Numpy
+
 Scikit-learn
+
 Matplotlib
+
 Seaborn
 
 # Results
