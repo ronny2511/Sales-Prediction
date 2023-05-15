@@ -1,4 +1,4 @@
-# oibsip5 - Sales Prediction
+# Sales Prediction
 This is a machine learning project that predicts the sales based on advertising data. The dataset used in this project is sourced from Kaggle and contains information about advertising spend on TV, radio, and newspaper for various products, along with the corresponding sales.
 
 # Dataset
